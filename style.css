@@ -196,7 +196,7 @@ h1 {
         display: none;
     }
 
-
+/* Used some sample code of W3School   */
     .menu-bar:hover .menu-bar a {
         color: black;
         padding: 12px 16px;
